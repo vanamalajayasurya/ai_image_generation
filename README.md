@@ -209,7 +209,7 @@ Contributions, issues and feature requests are welcome!
 <div align="center">
 
 **Vanamala Jayasurya**
-*Final-year CSE (Data Science) • Software · Data · AI*
+*B.Tech CSE (Data Science) Graduate • Software · Data · AI*
 
 <a href="https://jayasuryaportfilio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/vanamala-jayasurya-5b1138324"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
